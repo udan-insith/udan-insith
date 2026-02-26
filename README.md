@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udan Insith</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udan-insith&label=Profile%20views&color=0e75b6&style=flat" alt="udan-insith" /> </p>
